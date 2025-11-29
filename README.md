@@ -4,5 +4,8 @@
 [Arute, F. et al. Quantum supremacy using a programmable superconducting processor. *Nature* **574**, 505–510 (2019)](https://www.nature.com/articles/s41586-019-1666-5).\
 data repositories: [Zenodo](https://zenodo.org/records/4458289) (Jun 13, 2022), [Dryad](https://datadryad.org/dataset/doi:10.5061/dryad.k6t1rj8) (Jun 13, 2022)
 
-Figure 2b, RGB values and resulting gate error rates, [files](2019_(Google)_Quantum_supremacy/):\
-fig2b_1gates.csv, fig2b_2gates.csv, fig2b_legend.csv, fig2b_legend_interpol.csv
+Figure 2b, RGB values and resulting gate error rates, directory [2019_(Google)_Quantum_supremacy](2019_(Google)_Quantum_supremacy/):\
+[fig2b_1gates.csv](2019_(Google)_Quantum_supremacy/fig2b_1gates.csv) :  1-gates\
+[fig2b_2gates.csv](2019_(Google)_Quantum_supremacy/fig2b_2gates.csv) :  2-gates\
+[fig2b_legend.csv](2019_(Google)_Quantum_supremacy/fig2b_legend.csv) :  color legend tick mark values\
+[fig2b_legend_interpol.csv](2019_(Google)_Quantum_supremacy/fig2b_legend_interpol.csv) :  color legend tick mark values and interpolated values between tick marks
