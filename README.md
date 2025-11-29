@@ -1,4 +1,4 @@
 # Quantum computing: data and statistical analysis
 
-## Google QVM Weber simulator
+## Google's Sycamore-53 (2019)
 test test
